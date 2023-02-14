@@ -8,3 +8,8 @@ Once all dependencies is install, to tests the implementation please execute
 ```
 npm test
 ```
+
+Version Check
+- node v18.14.0
+- npm 9.3.1
+- tsc 4.9.4
